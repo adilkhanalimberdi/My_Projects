@@ -1,6 +1,5 @@
 '''
-this my 2-nd project on python, n i used a library tkinter.
-i coded this 90 minutes.
+TKINTER
 '''
 
 def add_digit(digit):
