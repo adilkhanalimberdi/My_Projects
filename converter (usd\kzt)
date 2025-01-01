@@ -1,9 +1,5 @@
 '''
-TITLE
-
-in russian - я использовал только python и библиотека tkinter. это результат 2 часового кодинга.
- 
-in english - i only used python and the tkinter library. this is the result of 2 hours of coding.
+TKINTER
  '''
  def result():
     global res
